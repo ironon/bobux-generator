@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f7eaa09.css",
-    "main.js": "/static/js/main.91172962.js",
-    "static/media/garfgarf.png": "/static/media/garfgarf.25db2c73ede036a1dff6.png",
-    "static/media/communism.png": "/static/media/communism.a8daf6d748869d5b562a.png",
-    "static/media/generator.png": "/static/media/generator.b4096f76854b7b47f884.png",
-    "static/media/daydayHarvester.png": "/static/media/daydayHarvester.9843922e1c091eefb0ce.png",
-    "static/media/snailworship.png": "/static/media/snailworship.df437811fbba8cf7199c.png",
-    "static/media/bobuxmine.png": "/static/media/bobuxmine.89f9ecbc54515678872b.png",
-    "static/media/dayday.png": "/static/media/dayday.be2740ef4ebdb9adeb53.png",
-    "static/media/skyblock.png": "/static/media/skyblock.b504833610251a2e0ff9.png",
-    "static/media/noodlebird.png": "/static/media/noodlebird.538c2047dbde0f3cbc54.png",
-    "static/media/jess.png": "/static/media/jess.fc345bbca667cb79f529.png",
-    "static/media/capitalism.png": "/static/media/capitalism.050adb4b1e1caab435d8.png",
-    "static/media/laboratory.png": "/static/media/laboratory.c6f1832b294859b5a23f.png",
-    "index.html": "/index.html",
-    "main.7f7eaa09.css.map": "/static/css/main.7f7eaa09.css.map",
-    "main.91172962.js.map": "/static/js/main.91172962.js.map"
+    "main.css": "/bobuxgen/static/css/main.7f7eaa09.css",
+    "main.js": "/bobuxgen/static/js/main.c51aac2a.js",
+    "static/media/garfgarf.png": "/bobuxgen/static/media/garfgarf.25db2c73ede036a1dff6.png",
+    "static/media/communism.png": "/bobuxgen/static/media/communism.a8daf6d748869d5b562a.png",
+    "static/media/generator.png": "/bobuxgen/static/media/generator.b4096f76854b7b47f884.png",
+    "static/media/daydayHarvester.png": "/bobuxgen/static/media/daydayHarvester.9843922e1c091eefb0ce.png",
+    "static/media/snailworship.png": "/bobuxgen/static/media/snailworship.df437811fbba8cf7199c.png",
+    "static/media/bobuxmine.png": "/bobuxgen/static/media/bobuxmine.89f9ecbc54515678872b.png",
+    "static/media/dayday.png": "/bobuxgen/static/media/dayday.be2740ef4ebdb9adeb53.png",
+    "static/media/skyblock.png": "/bobuxgen/static/media/skyblock.b504833610251a2e0ff9.png",
+    "static/media/noodlebird.png": "/bobuxgen/static/media/noodlebird.538c2047dbde0f3cbc54.png",
+    "static/media/jess.png": "/bobuxgen/static/media/jess.fc345bbca667cb79f529.png",
+    "static/media/capitalism.png": "/bobuxgen/static/media/capitalism.050adb4b1e1caab435d8.png",
+    "static/media/laboratory.png": "/bobuxgen/static/media/laboratory.c6f1832b294859b5a23f.png",
+    "index.html": "/bobuxgen/index.html",
+    "main.7f7eaa09.css.map": "/bobuxgen/static/css/main.7f7eaa09.css.map",
+    "main.c51aac2a.js.map": "/bobuxgen/static/js/main.c51aac2a.js.map"
   },
   "entrypoints": [
     "static/css/main.7f7eaa09.css",
-    "static/js/main.91172962.js"
+    "static/js/main.c51aac2a.js"
   ]
 }
