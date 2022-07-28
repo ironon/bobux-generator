@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bobuxgen/static/css/main.5dbcd50f.css",
-    "main.js": "/bobuxgen/static/js/main.462eb8aa.js",
+    "main.js": "/bobuxgen/static/js/main.60fdf9c9.js",
     "static/media/bestPresident.png": "/bobuxgen/static/media/bestPresident.61b5bc3f62578cb1c314.png",
     "static/media/jubJuice.png": "/bobuxgen/static/media/jubJuice.3d8a270d5577a89fe387.png",
     "static/media/jubJuiceSkin.png": "/bobuxgen/static/media/jubJuiceSkin.d343f05a1d35825e74e4.png",
@@ -42,10 +42,10 @@
     "static/media/sharperblades.png": "/bobuxgen/static/media/sharperblades.38cbfe91e871b247b2f9.png",
     "index.html": "/bobuxgen/index.html",
     "main.5dbcd50f.css.map": "/bobuxgen/static/css/main.5dbcd50f.css.map",
-    "main.462eb8aa.js.map": "/bobuxgen/static/js/main.462eb8aa.js.map"
+    "main.60fdf9c9.js.map": "/bobuxgen/static/js/main.60fdf9c9.js.map"
   },
   "entrypoints": [
     "static/css/main.5dbcd50f.css",
-    "static/js/main.462eb8aa.js"
+    "static/js/main.60fdf9c9.js"
   ]
 }
